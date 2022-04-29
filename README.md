@@ -66,5 +66,7 @@ id | baseline
 2. Document model performance 
 3. Establish platform to summarize work and communicate process, findings, takeaways, and/or recommendations and next steps (Jupyter Notebook, Google Slides, Tableau Story, Canva Graphics)
 4. Test functions and modules and document steps to recreate
+5. Final folder cleanup
+6. Share :)
 
 ## Steps to Recreate
