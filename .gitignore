@@ -1,0 +1,5 @@
+#files to be ignore
+.DS_Store
+
+#file formats/types to be ignored
+*.csv 
